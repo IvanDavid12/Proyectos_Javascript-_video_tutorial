@@ -1,9 +1,18 @@
 # Proyectos_Javascript-_video_tutorial
 
-primer proyecto:la calculadora 
+### primer proyecto:la calculadora 
 #
-![calculadora](img/calculadora.png)
+#### el primer ejercicio hecho es la calculadora el cual se elaboro con los lenguajes de maquetacion html y css, y el lenguaje de programacion javascript 
 #
-![calculadora](img/calculadora_2.png)
+### para formar las filaas de los numeros y los diferentes signos de la calculadora  se uso la funcion "td" y "td" la td le asignamos la funcion button  y a esta ffuncion le añadimos una clase y una id a esta id le añadiremos un elemento despues de cerrar la id añadimos el simbolo que le queremos añadir a dicha funcion hacemos lo mismo con las otras funciones hacemos lo mismo con los otrasbotones cambiando siempre el id 
 #
-![calculadora](img/calculadora_3.png)
+![calculadora](/img/calculadora.png)
+#
+### para hacer que la calculadora tenga ese diseño vamos a ulizar css el cual nos va a facilitar el diseño de la pagina y de la calculadora hay mismo podemos escoger el tamaño, la fuente, el color tanto de la fuente como de la pagina y tambien la posicion de estas mismas 
+#
+![calculadora](/img/calculadora_2.png)
+#
+### por ultimo utilizamos javascript el cual le dara las funciones a la calculadora ya sea para sumar, restar, multiplicar, etc 
+### nos da todas las funciones necesarias para que funcione nuestra calculadora ya sea dar click para escojer el numero o el signo para la operacion 
+#
+![calculadora](/img/calculadora_3.png)

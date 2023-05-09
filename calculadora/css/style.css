@@ -4,10 +4,19 @@
     box-sizing: border-box;
     font-family: sans-serif;
     transition: all 0.8s ease;
+ }
+ body
+ {
+  background: linear-gradient(45deg,blue, red);
+ }
+ 
+  .calculator{
+
+    background: linear-gradient(45deg,blue, red);
   }
-  
-  body {
-    background: linear-gradient(45deg, blue, red);
+  .calculator.dark{
+
+    background: linear-gradient(45deg, #333, gray);
   }
   
   .container {

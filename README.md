@@ -19,6 +19,15 @@
 #
 #### menu_desĺegable
 #
-### este es un menu de opciones desplegable el cual nos dara una forma mas facil de navegar en una pagina web con mucha facilidad usando css para añadirle los estilos 
+### este es un menu de opciones desplegable el cual nos dara una forma mas facil de navegar en una pagina web con mucha facilidad usando css para añadirle los estilos, js para darle la funcion y html poner la informacion requerida en contenedores que van en linea recta ademas le hemos añadido color a los iconos para poder diferencialos 
 
 ![menu_desplegable](/img/menu_deplegable.png)
+#
+#### toggle 
+#
+### esta funcion nos permite cambiar el estado de visibilad de un elemento html gracias a las funciones de js las cuales no permiten oprimir el boton y con css le daremos la decoracion y el diseño que aparece cuando oprimimos el boton y html es donde pondremos la informacion que queremos que aparesca en la pagina web 
+
+![toggle](/img/toggle.png)
+#
+#
+![toggle](/img/toggle_2.png)

@@ -42,3 +42,9 @@
 #
 ![Dark theme](/img/tema_oscuro.png)
 #
+
+#### menu desplegable (kfc)
+#
+###
+![kfc](/img/kfc.png)
+#

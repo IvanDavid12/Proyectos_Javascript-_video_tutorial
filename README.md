@@ -26,8 +26,19 @@
 #### toggle 
 #
 ### esta funcion nos permite cambiar el estado de visibilad de un elemento html gracias a las funciones de js las cuales no permiten oprimir el boton y con css le daremos la decoracion y el diseño que aparece cuando oprimimos el boton y html es donde pondremos la informacion que queremos que aparesca en la pagina web 
-
+#
 ![toggle](/img/toggle.png)
 #
 #
 ![toggle](/img/toggle_2.png)
+#
+####  Dark theme (tema oscuro)
+#
+###  esta funcion nos permitira cambiar el tema o color de nuestra pagian web de un tema claro y brillante a uno fondo negro y oscuro y hacer el proceso inverso esto con el fin de hacer sentir mas como a los usuarios
+#
+![Dark theme](/img/tema_claro.png)
+#
+### tema oscuro
+#
+![Dark theme](/img/tema_oscuro.png)
+#
